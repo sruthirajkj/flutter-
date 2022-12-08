@@ -13,9 +13,7 @@ class _ConainercicleState extends State<Conainercicle> {
     return Scaffold(
       body:Center(
         child: Column(
-            children: [
-              Container(child:
-                ,)
+            children:[Text("data1"),
             ]),
       ),
     );
