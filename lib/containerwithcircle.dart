@@ -50,7 +50,7 @@ class _ConainercicleState extends State<Conainercicle> {
                   style: TextStyle(color: Colors.green, fontSize: 20),
                 ),
                 Text(
-                    "GeeksforGeeks is a computer science portal for geeks at geeksfoegeeks.org.It contains well written,well hought and well explained computer science and programmingarticles,quizzes,project,interview experienxes and much more",textAlign: TextAlign.justify,),
+                    "GeeksforGeeks is a computer science po rtal for geeks at geeksfoegeeks.org.It contains well written,well hought and well explained computer science and programmingarticles,quizzes,project,interview experienxes and much more",textAlign: TextAlign.justify,),
                 Container(
                   width: 50,
                   height: 25,
